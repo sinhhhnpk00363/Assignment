@@ -1,0 +1,19 @@
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\bin\Debug\ASM.exe.config
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\bin\Debug\ASM.exe
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\bin\Debug\ASM.pdb
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\bin\Debug\ASM.xml
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.frmloaisanpham.resources
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.frmmain.resources
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.frmsanpham.resources
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.Resources.resources
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.vbproj.GenerateResource.Cache
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.exe
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.xml
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.pdb
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.frmhoadon.resources
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.frmkhachhang.resources
+D:\DIEM TOAN DAM MAY\fom\ASM\ASM\obj\Debug\ASM.frmchitiethd.resources
+E:\Sinh\ASM\ASM\bin\Debug\ASM.exe.config
+E:\Sinh\ASM\ASM\obj\Debug\ASM.exe
+E:\Sinh\ASM\ASM\obj\Debug\ASM.xml
+E:\Sinh\ASM\ASM\obj\Debug\ASM.pdb
